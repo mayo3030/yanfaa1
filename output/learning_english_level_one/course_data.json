@@ -1,0 +1,160 @@
+{
+  "id": 69,
+  "title": "English - Level 1",
+  "desc": "<ul>\r\n\t<li>\r\n\t<h3><strong>What will you learn here?</strong></h3>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>There is no doubt that learning English has become a necessary requirement now. Therefore, today Mr. Mustafa will provide you with an integrated course in English that will take you from zero to the professional level in which you will be given everything you need to be fluent in English.</strong></p>\r\n\r\n<p>Level: Beginner - 101</p>\r\n",
+  "material": null,
+  "featured_image": {
+    "original": "https://yanfaa.s3.eu-west-1.amazonaws.com/courses/original/f2533c19d83f05c8bff08e8ef9ac3f78.png",
+    "large": "https://yanfaa.s3.eu-west-1.amazonaws.com/courses/large/f2533c19d83f05c8bff08e8ef9ac3f78.png",
+    "medium": "https://yanfaa.s3.eu-west-1.amazonaws.com/courses/medium/f2533c19d83f05c8bff08e8ef9ac3f78.png",
+    "small": "https://yanfaa.s3.eu-west-1.amazonaws.com/courses/small/f2533c19d83f05c8bff08e8ef9ac3f78.png",
+    "thumbnail": "https://yanfaa.s3.eu-west-1.amazonaws.com/courses/thumbnail/f2533c19d83f05c8bff08e8ef9ac3f78.png"
+  },
+  "category_id": 14,
+  "user_id": 55,
+  "slug": "learning_english_level_one",
+  "certificate": 1,
+  "created_at": "2021-04-07 17:33:06",
+  "updated_at": "2025-09-29 01:43:25",
+  "deleted_at": null,
+  "type": "video",
+  "meta_data": "تعلم اللغة الإنجليزية - المستوى الأول\r\n\r\nlearning_english_level_one\r\n\r\n\r\nاللغة الانجليزية - اللغه الانجليزيه - اللغة الانجليزية - الإنجليزية - انجليزي - انجلش - إنجليزي - إنجليزي\r\n\r\nMustafa Abdelsabour - مصطفى عبد الصبور \r\nMustafa\r\nمصطفي عبد الصبور\r\nمصطفى\r\n\r\nEnglish - تدريس -E - learning - Course - لغة - لغات - انجليزي - انجليزى -انجليزية - انجليزيه  - مستوي أول - Level One - انجلش - اللغة - ١ - 1 - اول - مستوى اول",
+  "meta_image": "https://yanfaa.s3.eu-west-1.amazonaws.com/meta/courses/676ce52b6c0e4_1735189803.jpg",
+  "s3_ref": "f2533c19d83f05c8bff08e8ef9ac3f78.png",
+  "meta_image_s3_ref": "676ce52b6c0e4_1735189803.jpg",
+  "video_count": 29,
+  "free": false,
+  "is_enrolled": false,
+  "is_legal": true,
+  "completion_threshold_percentage": "85",
+  "watched_videos": [],
+  "duration": 17673,
+  "duration_human": "4 hours and 54 minutes",
+  "pivot": {
+    "country_id": 3,
+    "course_id": 69,
+    "price": "10.00",
+    "currency": "EGP"
+  },
+  "translations": [
+    {
+      "id": 69,
+      "translatable_id": 69,
+      "translatable_type": "App\\Models\\Course",
+      "title": "English - Level 1",
+      "slug": "",
+      "desc": "<ul>\r\n\t<li>\r\n\t<h3><strong>What will you learn here?</strong></h3>\r\n\t</li>\r\n</ul>\r\n\r\n<p><strong>There is no doubt that learning English has become a necessary requirement now. Therefore, today Mr. Mustafa will provide you with an integrated course in English that will take you from zero to the professional level in which you will be given everything you need to be fluent in English.</strong></p>\r\n\r\n<p>Level: Beginner - 101</p>\r\n",
+      "meta_keywords": null,
+      "meta_description": null,
+      "short_description": null,
+      "locale": "en",
+      "created_at": "2025-09-11 04:33:00",
+      "updated_at": "2025-09-29 01:43:25"
+    }
+  ],
+  "category": {
+    "id": 14,
+    "parent_id": 9,
+    "title": "English",
+    "desc": "",
+    "color": "",
+    "slug": "English",
+    "icon": "",
+    "created_at": "2025-09-29 01:38:53",
+    "updated_at": "2025-09-29 01:38:53",
+    "deleted_at": null,
+    "translations": [
+      {
+        "id": 6634,
+        "translatable_id": 14,
+        "translatable_type": "App\\Models\\Category",
+        "title": "English",
+        "slug": "",
+        "desc": null,
+        "meta_keywords": null,
+        "meta_description": null,
+        "short_description": null,
+        "locale": "en",
+        "created_at": "2025-09-29 01:38:53",
+        "updated_at": "2025-09-29 01:38:53"
+      }
+    ]
+  },
+  "user": {
+    "id": 55,
+    "name": "Mustafa Abdelsabour",
+    "username": "MustafaAbdelsabour",
+    "title": "English instructor",
+    "avatar": {
+      "original": "https://yanfaa.s3.eu-west-1.amazonaws.com/instructors/original/a15f5d4943c94d7a393ccd98eefe5372.png",
+      "large": "https://yanfaa.s3.eu-west-1.amazonaws.com/instructors/large/a15f5d4943c94d7a393ccd98eefe5372.png",
+      "medium": "https://yanfaa.s3.eu-west-1.amazonaws.com/instructors/medium/a15f5d4943c94d7a393ccd98eefe5372.png",
+      "small": "https://yanfaa.s3.eu-west-1.amazonaws.com/instructors/small/a15f5d4943c94d7a393ccd98eefe5372.png",
+      "thumbnail": "https://yanfaa.s3.eu-west-1.amazonaws.com/instructors/thumbnail/a15f5d4943c94d7a393ccd98eefe5372.png"
+    },
+    "facebook": "",
+    "twitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "bio": "Mostafa Abdel Sabour is an English language teacher with more than 7 years of experience. He studied for all ages and all levels and the founder of DR.ENGLISH to teach English ",
+    "created_at": "2021-04-07 17:27:20",
+    "translations": [
+      {
+        "id": 6503,
+        "translatable_id": 55,
+        "translatable_type": "App\\Models\\User",
+        "title": "",
+        "slug": "",
+        "desc": "Mostafa Abdel Sabour is an English language teacher with more than 7 years of experience. He studied for all ages and all levels and the founder of DR.ENGLISH to teach English ",
+        "meta_keywords": null,
+        "meta_description": null,
+        "short_description": null,
+        "locale": "en",
+        "created_at": "2025-09-11 05:06:23",
+        "updated_at": "2025-09-11 05:06:23"
+      }
+    ]
+  },
+  "videos": [
+    {
+      "id": 1125,
+      "title": "Promo - Learn English (Level 1)",
+      "sort": 0,
+      "desc": "",
+      "course_id": 69,
+      "duration": 50,
+      "meta_data": "",
+      "brightcove_video_id": "6253662723001",
+      "is_watched": false,
+      "duration_human": "1 minute",
+      "translations": [
+        {
+          "id": 1531,
+          "translatable_id": 1125,
+          "translatable_type": "App\\Models\\Video",
+          "title": "Promo - Learn English (Level 1)",
+          "slug": "",
+          "desc": null,
+          "meta_keywords": null,
+          "meta_description": null,
+          "short_description": null,
+          "locale": "en",
+          "created_at": "2025-09-11 04:39:59",
+          "updated_at": "2025-09-11 04:39:59"
+        }
+      ]
+    }
+  ],
+  "countries": [
+    {
+      "free": 0,
+      "pivot": {
+        "course_id": 69,
+        "country_id": 3,
+        "currency": "EGP",
+        "visible": 1,
+        "free": 0
+      }
+    }
+  ]
+}

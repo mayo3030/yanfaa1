@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# ملفات حساسة (مهم جداً - لا ترفعها!)
+cookies_yanfaa_account.json
+cookies.txt
+new_cookies.txt
+session.json
+b8b24067-1841-4531-aa28-8fb2800af2a1.txt
+credentials.json
+
+# ملفات الإخراج الكبيرة (اختياري)
+output/videos/*.mp4
+output/*/videos/*.mp4
+
+# ملفات cookies في output
+output/**/cookies.txt
+output/**/ffmpeg_cookies.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# نظام التشغيل
+.DS_Store
+Thumbs.db
+

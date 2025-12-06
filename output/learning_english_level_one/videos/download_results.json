@@ -1,0 +1,51 @@
+{
+  "summary": {
+    "success": 0,
+    "skipped": 5,
+    "error": 1,
+    "total_time_seconds": 1.0028462409973145
+  },
+  "results": {
+    "success": [],
+    "error": [
+      {
+        "status": "error",
+        "title": "13- wearing and not wearing",
+        "error": "ERROR: [brightcove:new] Access to this resource is forbidden by access policy.\n",
+        "video": "13- wearing and not wearing"
+      }
+    ],
+    "skipped": [
+      {
+        "status": "skipped",
+        "title": "11- descreptions",
+        "reason": "Already exists (54.79 MB)",
+        "video": "11- descreptions"
+      },
+      {
+        "status": "skipped",
+        "title": "12- clothes -colors",
+        "reason": "Already exists (12.25 MB)",
+        "video": "12- clothes -colors"
+      },
+      {
+        "status": "skipped",
+        "title": "21- Transportation",
+        "reason": "Already exists (90.54 MB)",
+        "video": "21- Transportation"
+      },
+      {
+        "status": "skipped",
+        "title": "24- Family-",
+        "reason": "Already exists (60.81 MB)",
+        "video": "24- Family-"
+      },
+      {
+        "status": "skipped",
+        "title": "14- excerise wearing-",
+        "reason": "Already exists (50.08 MB)",
+        "video": "14- excerise wearing-"
+      }
+    ]
+  }
+}

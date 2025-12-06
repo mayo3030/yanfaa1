@@ -1,0 +1,57 @@
+{
+  "course_slug": "learning_english_level_one",
+  "course_id": 69,
+  "session_id": "mNOaH74fU0c8w6cYFHGaA54wxqTq4fD5umworS16",
+  "total_found": 6,
+  "source": "/api/courses/English/1",
+  "videos": [
+    {
+      "video_id": 69,
+      "brightcove_video_id": null,
+      "title": "English - Level 1",
+      "sort": 0,
+      "duration": 17673,
+      "course_id": 69
+    },
+    {
+      "video_id": 90,
+      "brightcove_video_id": null,
+      "title": "English Level 2",
+      "sort": 0,
+      "duration": 15203,
+      "course_id": 69
+    },
+    {
+      "video_id": 157,
+      "brightcove_video_id": null,
+      "title": "English Level 8",
+      "sort": 0,
+      "duration": 12051,
+      "course_id": 69
+    },
+    {
+      "video_id": 91,
+      "brightcove_video_id": null,
+      "title": "English - Level 3",
+      "sort": 0,
+      "duration": 14578,
+      "course_id": 69
+    },
+    {
+      "video_id": 156,
+      "brightcove_video_id": null,
+      "title": "English Level 7",
+      "sort": 0,
+      "duration": 11650,
+      "course_id": 69
+    },
+    {
+      "video_id": 136,
+      "brightcove_video_id": null,
+      "title": "English Level 6",
+      "sort": 0,
+      "duration": 9670,
+      "course_id": 69
+    }
+  ]
+}
