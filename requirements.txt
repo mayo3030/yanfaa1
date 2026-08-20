@@ -1,2 +1,7 @@
 playwright
 crawl4ai
+streamlit
+pandas
+httpx
+beautifulsoup4
+yt-dlp
